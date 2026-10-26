@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ayoub
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayoub18daoui@gmail.com
 
